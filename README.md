@@ -1,2 +1,2 @@
-# resume2
-this my resume
+# resume2 
+portfolio resume
